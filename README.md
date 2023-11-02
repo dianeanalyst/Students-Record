@@ -5,7 +5,7 @@ Working on this task is my first attempt on practicing data analysis using struc
 # Skills demonstrated and activity
 In the course of carrying out this task, the activities required that I show some SQL data modification skills and make use of key SQL statements like CREATE, SELECT, ALTER and INSERT INTO which further makes me understand the likely use cases for each statement. A database and three tables were created with named columns with some activities to modify the tables created. The list below shows what was required to fulfil this task.
 #
-• Create a databse names "Students Record"
+- Create a databse names "Students Record"
 #
-• Create the following tables in the database created #
+• Create the following tables in the database created
 - Health 
