@@ -7,5 +7,15 @@ In the course of carrying out this task, the activities required that I show som
 #
 - Create a databse names "Students Record"
 #
-• Create the following tables in the database created
-- Health 
+- Create the following lisetd tables and column headers in the database created
+#
+• Students Info (Student_ID, Gender, Name, Age, Subject)
+#
+• Health Records (Student ID, Blood Group, Height, Weight)
+#
+• Performance (Student ID, Score, Grade)
+#
+- The ID has to be unique
+- Where a student has no score, it should be '0' by default
+- Add a constraint that prevents the ID and Subject from taking null values
+- Apply the following modifications to the tables
