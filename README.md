@@ -9,13 +9,17 @@ In the course of carrying out this task, the activities required that I show som
 #
 - Create the following lisetd tables and column headers in the database created
 #
-• Students Info (Student_ID, Gender, Name, Age, Subject)
+a.  Students Info (Student_ID, Gender, Name, Age, Subject)
 #
-• Health Records (Student ID, Blood Group, Height, Weight)
+b.  Health Records (Student ID, Blood Group, Height, Weight)
 #
-• Performance (Student ID, Score, Grade)
+c.  Performance (Student ID, Score, Grade)
 #
 - The ID has to be unique
 - Where a student has no score, it should be '0' by default
 - Add a constraint that prevents the ID and Subject from taking null values
-- Apply the following modifications to the tables
+- Apply the following modifications to the table
+  1. Change column name "Subject" to "Course".
+  2. Drop the "Age" column from the Students Info table.
+# Solution
+I started by creating a database named 
